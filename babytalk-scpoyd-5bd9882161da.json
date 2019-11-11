@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "babytalk-scpoyd",
+  "private_key_id": "5bd9882161da88ea4326697e24f3849dc147cdc9",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCZAXwib+ikC2d4\niCWcwlelBeJ1uoxsYz4op9tHLDsmXvUQTZniU/0jOd3yb82KSIRS5GtwhGvsxOF5\nBixN5LqsUNdV53nO4lcYm1IX7taqHMBeO320RkWYhLfVTPxSFanyT6itq3u8sYNi\n8sCQNDdF3yNYjgup0yDOU8qWzURhgQ5zj57M2SEmaP7GLtWT2KTfoeWyZc42hNZU\n9PQbyRZB57bUSAN7SZA6dgfbNfxKyB5Monu0XE+af9eo1uz4owyeT2WigtJx1meN\nFYBJBGHxehaKRiTeyVV4SaIxHIiN6gylY5NhDX5MKbMu0xnG7FHumICp7lctPA8p\nKp7CQUPxAgMBAAECggEABkw22U4E49eqUx47ehfPtrWmzBS5Ge79zHuYPXY3Gw22\nhYzEJDozxaLonUV3ztTMSYMoXvG8ZXr3Et2rrisXeec77cfAzkCnuBYQi3ajtE3J\npzdIpcZsr+nqjSeFjTViENyxgzB3P92InGaEgYr8qW4VTNxP45YSmBt/z7Q0N9Uh\nPPnND5o5Awo+Ti1pjebvbDkxUn0zC2NIcArijAI3razifbLM+tIS3rnVy0ivTREJ\nuTGWCb0FfmmUIGUYadO6zoyP+jPNbqPogjjCYGBaYSaW0uFJIiJTg79P9OvxU92z\nSL/MRoI64rtaGGGnxv42TTaj/BvvSXJsQWj+/XJ94QKBgQDPprRk4hLZut/KuvCq\nrB5QZUpwpHzXNHx1An6iqS1jAcVXnyDW3LHhFN2SqMDXWD1DUPyq1JnyB7X/0gNF\n5l2LJDDEr0/Rp3ZbioVgRCNxvbzmDNiBlcuXle6SOjUkQKh0O2WdHWz5YhNWxSJv\nUWalnUhDOFQBXm6Lu1BB5DiWaQKBgQC8oZO2rQNu08Mn84tBCP4DIZi+915bN4ba\nxERwNM0smAIW1iC0OVOGpHYBmCXYVkznZKz1he2efjwyeUdzvINqxNIKLAT2Z3RL\nZIZLF41+mm08f4F4okxm5h7sEa0M6iCyhF4AS3S7TBlqDoMlG1Fy3HI+aqKaAbK7\nS5G5Zx9gSQKBgQC1crNBUDcuoNf7O50fViVrFQeWJHWeS5PRXyuvEWvCjwKVTUyR\n0+lviB8Rj3pq8gUedH9E+1/GGSzU7PvFMcZd1nLy+0ohJlcLKKDhfMkIE8cjsufh\nXDa6L953UnurQQCyCFEDmHnn9OZ3NO2hHh027Jf/fRIS3CR232gDG9zCuQKBgDz1\nTmIbeV+Iaanwh5EF0ei7I7ya/lAmGpt6D8/fEGsX2Jz+p+T2HasGXOhY/enywbmJ\njGdv14F/s/5vuQqK4kFPx7znytbCSg/PNaLwwpYmW6TQY8vTTzN1rIqHj8/7nYNz\nSVl5CQk6J4BhnjoQoPqoiPboyRFR+SuT2Uz8KWSZAoGARAsdvKGmzH+gcFlZY/JW\ntFvRjlBBBQnKQ65RP9Ikl6lo7Q9FiW22US6iJmft6Dx9Vyj93dvdQb2w5DoQbDCU\nnGfdBSLm6FOKgHlMIM7qmoFqRX0J28JicuG6lwFZVxR7ixEdfocoGWQw2jlzMgkm\nSsC4XhSchU2vFp4uDEs9Ynw=\n-----END PRIVATE KEY-----\n",
+  "client_email": "dialogflow-wdngmd@babytalk-scpoyd.iam.gserviceaccount.com",
+  "client_id": "105381512640894921737",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dialogflow-wdngmd%40babytalk-scpoyd.iam.gserviceaccount.com"
+}
